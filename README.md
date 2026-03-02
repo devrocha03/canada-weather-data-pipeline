@@ -1,4 +1,4 @@
-# canada-weather-data-pipeline# 🍁 Canada Tech Hubs: Real-Time Weather Data Pipeline
+🍁 Canada Tech Hubs: Real-Time Weather Data Pipeline
 
 🌎 [Read in English](README_EN.md) | 🇧🇷 [Ler em Português](README.md)
 
